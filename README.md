@@ -31,6 +31,31 @@ Results-driven Software Engineer specialized in building highly secure, componen
 | **Core Software Engineering** | `OOP` • `SOLID Principles` • `Design Patterns` • `Collections Framework` • `Data Structures & Algorithms (DSA)` • `Exception Handling` • `SDLC` • `Agile Methodologies` |
 
 ---
+### 📊 Git Analytics & Platform Merits
+
+<p align="center">
+  <!-- The Dynamic Streak Card (Left) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar963&theme=tokyonight&hide_border=true&background=0D1117" alt="Omkar's GitHub Streak Stats" width="62%" align="left"/>
+  
+  <!-- The Holographic Coder Avatar (Right) -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Holographic Developer" width="32%" align="right"/>
+</p>
+
+<br clear="both"/>
+<br/>
+
+#### 🚀 Core Technologies & Ecosystem Deployment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React_v18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+---
 
 
 ### 📊 Real-Time Git Telemetry & Metrics
@@ -41,18 +66,8 @@ Results-driven Software Engineer specialized in building highly secure, componen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar963&layout=compact&theme=transparent&hide_border=true" alt="Omkar's Top Languages" width="48%"/>
 </p>
 
-### 📊 Git Analytics & Platform Merits
 
-<p align="center">
-  <!-- 1. The Dynamic Streak Card (Left) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar963&theme=tokyonight&hide_border=true&background=0D1117" alt="Omkar's GitHub Streak Stats" width="62%" align="left"/>
-  
-  <!-- 2. The Holographic Coder Avatar (Right) -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Holographic Developer" width="32%" align="right"/>
-</p>
 
-<br clear="both"/>
-<br/>
 ---
 
 ### 🚀 Flagship Production Deployments
