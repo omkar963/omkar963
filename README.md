@@ -41,10 +41,18 @@ Results-driven Software Engineer specialized in building highly secure, componen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar963&layout=compact&theme=transparent&hide_border=true" alt="Omkar's Top Languages" width="48%"/>
 </p>
 
+### 📊 Git Analytics & Platform Merits
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar963&theme=github-light" alt="Omkar's Contribution Graph" width="98%"/>
+  <!-- 1. The Dynamic Streak Card (Left) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar963&theme=tokyonight&hide_border=true&background=0D1117" alt="Omkar's GitHub Streak Stats" width="62%" align="left"/>
+  
+  <!-- 2. The Holographic Coder Avatar (Right) -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Holographic Developer" width="32%" align="right"/>
 </p>
 
+<br clear="both"/>
+<br/>
 ---
 
 ### 🚀 Flagship Production Deployments
@@ -68,7 +76,6 @@ Results-driven Software Engineer specialized in building highly secure, componen
 * **Certified Java Full Stack Developer** | JSpiders Training Academy 🎓
 * **B.E. Computer Engineering Graduate** | Vishwaniketan's IMEET (CGPA: 7.35) 🏛️
 
----
 ---
 
 ### ⚡ Available Freelance Services & Capabilities
