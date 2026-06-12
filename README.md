@@ -30,7 +30,7 @@ Results-driven Software Engineer specialized in building highly secure, componen
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkar963&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Omkar's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?omkar963&layout=compact&theme=transparent&hide_border=true" alt="Omkar's Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar963&layout=compact&theme=transparent&hide_border=true" alt="Omkar's Top Languages" width="48%"/>
 </p>
 
 <p align="center">
