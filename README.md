@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Omkar Mhamunkar
 **Full-Stack Software Engineer & Rapid MVP Developer**  
 🚀 *Specialized in building fast, scalable Web Apps, secure APIs, and Custom Dashboards for Startups & Businesses.*
